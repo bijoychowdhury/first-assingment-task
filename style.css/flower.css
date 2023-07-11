@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* font style  */
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.banner{
+    width: 1380px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+display: flex;
+}
+.banner .flower-pic{
+     width: 590px;
+     height: 600px;
+     flex-shrink: 0;
+
+}
+.btn-main{
+     color:rgb(255, 255, 255);
+     font-size: 20px;
+     font-weight: 500;
+     background-color: #E55473;
+     /* display: inline-flex;  */
+     padding:  14px 30px;
+     /* align-items: flex-start;  */
+     gap: 5px;
+
+}
+.banner-title{
+    margin-top: 0px;
+    padding-top: 190px;
+    padding-left: 150px;
+    padding-right: 240px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+   
