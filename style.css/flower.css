@@ -50,3 +50,14 @@ flex-shrink: 5;
    }
 /* banner sec end */
 
+.section-title{
+    margin-top: 100px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.section-des{
+     color: rgba(39, 39, 39, 0.60);
+     text-align: center;
+     font-size: 18px;
+    
+}
