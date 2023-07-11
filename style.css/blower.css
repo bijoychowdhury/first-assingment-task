@@ -167,3 +167,11 @@ flex-shrink: 5;
     padding-left: 40px;
 }
 /* instragram end here */
+.get{
+    background-image: url('back.png');
+    width: 840px;
+height: 249px;
+flex-shrink: 0;
+
+
+}
