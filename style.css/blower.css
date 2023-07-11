@@ -168,10 +168,39 @@ flex-shrink: 5;
 }
 /* instragram end here */
 .get{
-    background-image: url('back.png');
-    width: 840px;
-height: 249px;
-flex-shrink: 0;
-
-
+     background-image: url('back.png');
+     background-repeat: no-repeat;
+     width: 1140px;
+     height: 649px;
+     flex-shrink: 0;
+     margin-top: 100px;
+     margin-left: 140px;
 }
+.get-title{
+    text-align: center;
+    padding-top: 100px;
+}
+.get-desc{
+     text-align: center;
+     padding-top: 20px;
+     color: rgba(39, 39, 39, 0.60);
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 30px;
+}
+.get-email{
+     padding-left: 30px;
+     padding-bottom: 40px;
+     padding-top: 50px;
+     margin-left: 150px;
+     width: 700px;
+     height: 2px;
+}
+.get-btn{
+     width: 150px;
+     height: 64px;
+     flex-shrink: 0;
+     border-radius: 8px;
+     background: #E55473;
+}
+/* main sec end here */
